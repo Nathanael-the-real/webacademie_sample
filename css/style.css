@@ -503,7 +503,7 @@ header .container {
 .resource:hover {
   border-radius: 5px;
   background-color: var(--primary_light);
-  box-shadow: 4px 4px 6px var(--grey_trinary);
+  box-shadow: 0px 0px 12px 3px var(--grey_trinary);
   transform: translateY(-0.2rem);
 }
 
